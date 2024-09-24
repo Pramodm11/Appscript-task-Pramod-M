@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
 
 2. Install the dependencies:
    ```
-   npm install
+   npm install lucide-react @tailwindcss/forms
    ```
 
 ### Running the Project
